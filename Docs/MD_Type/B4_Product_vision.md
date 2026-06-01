@@ -1,4 +1,4 @@
-## **BƯỚC 4: PRODUCT VISION**
+# **BƯỚC 4: PRODUCT VISION**
 
 | Thành phần chiến lược  | Nội dung chi tiết của dự án 3HD2Kcinema  |
 | :---- | :---- |
@@ -8,4 +8,3 @@
 | THAT (Mang lại giá trị)  | Giúp người dùng tối ưu hóa toàn diện thời gian cá nhân thông qua cơ chế tự động tra cứu phim thông minh, bộ lọc lịch chiếu đa rạp linh hoạt, chọn vị trí chỗ ngồi chính xác và hoàn thành thanh toán không tiền mặt chỉ trong vòng chưa đầy 2 phút để nhận ngay mã vé điện tử QR độc nhất.  |
 | UNLIKE (Khác với)  | Các phần mềm đặt chỗ truyền thống rườm rà, hệ thống trang web lỗi thời của các cụm rạp đơn lẻ thường xuyên bị nghẽn mạng khi có phim bom tấn, hoặc quy trình xếp hàng mua vé giấy và combo bắp nước trực tiếp tại quầy vật lý đầy bất tiện.  |
 | OUR PRODUCT (Sản phẩm của chúng tôi)  | Sở hữu thuật toán khóa ghế tự động đồng bộ theo thời gian thực (Real-time Seat Lock) giúp triệt tiêu hoàn toàn lỗi xung đột trùng ghế khi thanh toán, tích hợp cơ chế thanh toán một chạm siêu mượt, hỗ trợ tính năng chọn mua trước dịch vụ F\&D (Đồ ăn/Thức uống) tích hợp chung một mã QR và khả năng hiển thị vé ở chế độ ngoại tuyến (Offline QR Code) bất chấp sự cố kết nối mạng tại sảnh rạp.  |
-
