@@ -11,7 +11,7 @@
 *   **Dành cho (FOR):** Học sinh, sinh viên và người đi làm trẻ (15-35 tuổi) có lối sống hiện đại, yêu thích trải nghiệm điện ảnh.
 *   **Giải quyết vấn đề (WHO):** Những người mệt mỏi với các ứng dụng đặt vé rườm rà, tải chậm, mất thời gian xếp hàng mua vé/đồ ăn trực tiếp tại quầy vào giờ cao điểm, hoặc gặp sự cố trùng ghế khi đặt online.
 *   **Giải pháp (THE 3HD2Kcinema IS A):** Ứng dụng đặt vé xem phim trực tuyến thế hệ mới với quy trình tối giản.
-*   **Giá trị mang lại (THAT):** Tối ưu hóa thời gian thông qua việc tra cứu lịch chiếu đa rạp, chọn vị trí chỗ ngồi chính xác và thanh toán không tiền mặt chỉ dưới 2 phút.
+*   **Giá trị mang lại (THAT):** Tối ưu hóa thời gian thông qua việc tra cứu lịch chiếu trực quan, chọn vị trí chỗ ngồi chính xác và thanh toán không tiền mặt chỉ dưới 2 phút.
 *   **Điểm khác biệt (UNLIKE):** Khác biệt hoàn toàn so với các trang web rạp đơn lẻ thường nghẽn mạng khi có bom tấn hoặc quy trình mua vé giấy/bắp nước vật lý phức tạp.
 *   **Tính năng nổi bật (OUR PRODUCT):** Sở hữu thuật toán khóa ghế đồng bộ thời gian thực (Socket.io), tích hợp đặt trước bắp nước chung mã QR, hỗ trợ hiển thị vé ngoại tuyến (Offline QR Code) và đặt vé nhóm tự động chia tiền (Split bill).
 
@@ -23,7 +23,7 @@ Dự án được phân rã thành các Epic và User Story (từ US01 đến US
 
 ### 🔍 1. Cinematic UI & Movie Browse (US01)
 *   Giao diện rạp phim điện ảnh trực quan.
-*   Tra cứu, so sánh lịch chiếu và giá vé của nhiều cụm rạp cùng lúc trên một nền tảng duy nhất.
+*   Tra cứu thông tin phim, lịch chiếu và giá vé trực quan, thuận tiện.
 
 ### 🪑 2. Real-time Seat Locking (US02)
 *   Sơ đồ phòng chiếu tương tác thời gian thực sử dụng **Socket.io**.
@@ -47,12 +47,15 @@ Dự án được phân rã thành các Epic và User Story (từ US01 đến US
 
 ## 🛠️ Công nghệ sử dụng (Tech Stack)
 
-*   **Frontend:** HTML, CSS, JavaScript (React / Next.js / Vite)
+*(Đang trong quá trình khảo sát và chưa chốt phương án công nghệ chính thức)*
+
+Dưới đây là một số đề xuất công nghệ dự kiến cân nhắc sử dụng:
+*   **Frontend:** HTML, CSS, JavaScript (cân nhắc React / Next.js / Vite)
 *   **Backend:** Node.js, Express
-*   **Real-time Communication:** Socket.io
-*   **Database:** MongoDB
+*   **Real-time Communication:** Socket.io (phục vụ tính năng khóa ghế thời gian thực)
+*   **Database:** MongoDB / Relational Database
 *   **Authentication:** JWT (JSON Web Token)
-*   **Payment Gateway:** MoMo / VNPAY APIs
+*   **Payment Gateway:** Giả lập hoặc tích hợp MoMo / VNPAY APIs
 
 ---
 
