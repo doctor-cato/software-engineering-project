@@ -1,10 +1,10 @@
-# 🤝 Hướng dẫn đóng góp dự án (Contributing Guide)
+#  Hướng dẫn đóng góp dự án (Contributing Guide)
 
 Chào mừng các thành viên nhóm **3HD2Kcinema**! Để đảm bảo quá trình phát triển diễn ra trơn tru, hạn chế xung đột code (conflict) và quản lý tiến độ hiệu quả, tất cả thành viên cần tuân thủ quy trình làm việc dưới đây.
 
 ---
 
-## 📌 Quy trình phát triển (Git Workflow)
+##  Quy trình phát triển (Git Workflow)
 
 Chúng ta sử dụng quy trình **GitHub Flow** (phát triển qua Pull Request nhánh tính năng). Quy trình gồm các bước:
 
@@ -74,7 +74,7 @@ git push origin feature/us01-cinematic-ui
 
 ---
 
-## ⚠️ Quy tắc an toàn (Best Practices)
+##  Quy tắc an toàn (Best Practices)
 
 1.  **KHÔNG bao giờ commit trực tiếp lên nhánh `master`**. Mọi thay đổi đều phải đi qua Pull Request.
 2.  **Kéo code mới về thường xuyên:** Trước khi bắt đầu ngày làm việc mới, hãy pull code từ `master` về để tránh bị lệch code quá xa so với tiến độ chung của nhóm.
