@@ -1,4 +1,4 @@
-# 🎬 3HD2Kcinema - Online Movie Ticket Booking Application
+# 3HD2Kcinema - Online Movie Ticket Booking Application
 
 [![GitHub Issues](https://img.shields.io/github/issues/doctor-cato/software-engineering-project)](https://github.com/doctor-cato/software-engineering-project/issues)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Tầm nhìn sản phẩm (Product Vision)
+##  Tầm nhìn sản phẩm (Product Vision)
 
 *   **Dành cho (FOR):** Học sinh, sinh viên và người đi làm trẻ (15-35 tuổi) có lối sống hiện đại, yêu thích trải nghiệm điện ảnh.
 *   **Giải quyết vấn đề (WHO):** Những người mệt mỏi với các ứng dụng đặt vé rườm rà, tải chậm, mất thời gian xếp hàng mua vé/đồ ăn trực tiếp tại quầy vào giờ cao điểm, hoặc gặp sự cố trùng ghế khi đặt online.
@@ -17,35 +17,35 @@
 
 ---
 
-## 🚀 Các tính năng cốt lõi (Key Features)
+##  Các tính năng cốt lõi (Key Features)
 
 Dự án được phân rã thành các Epic và User Story (từ US01 đến US06) để phát triển:
 
-### 🔍 1. Cinematic UI & Movie Browse (US01)
+###  1. Cinematic UI & Movie Browse (US01)
 *   Giao diện rạp phim điện ảnh trực quan.
 *   Tra cứu thông tin phim, lịch chiếu và giá vé trực quan, thuận tiện.
 
-### 🪑 2. Real-time Seat Locking (US02)
+###  2. Real-time Seat Locking (US02)
 *   Sơ đồ phòng chiếu tương tác thời gian thực sử dụng **Socket.io**.
 *   Hiển thị ghế người khác đang chọn và tạm khóa ghế đang chọn trong 5 phút để tránh trùng ghế.
 
-### 🍿 3. Snack Booking & Up-sell (US03)
+###  3. Snack Booking & Up-sell (US03)
 *   Chọn mua các gói combo bắp nước ưu đãi trực quan ngay trong quy trình thanh toán vé.
 *   Tiết kiệm thời gian xếp hàng tại quầy F&B.
 
-### 💳 4. Payment & QR Ticket (US04)
+###  4. Payment & QR Ticket (US04)
 *   Tích hợp thanh toán trực tuyến an toàn qua ví điện tử (MoMo/VNPAY).
 *   Xuất vé điện tử QR Code tích hợp (vé + bắp nước) hỗ trợ xem ngoại tuyến khi không có kết nối mạng.
 
-### 🔑 5. Authentication & JWT (US05)
+###  5. Authentication & JWT (US05)
 *   Đăng ký và Đăng nhập thành viên để lưu lịch sử giao dịch và tích điểm.
 
-### 👥 6. Booking Nhóm & Chia tiền tự động (US06)
+###  6. Booking Nhóm & Chia tiền tự động (US06)
 *   Tính năng **Split & Lock** giúp giữ chỗ chung cho cả nhóm bạn và tự động chia đều hóa đơn thanh toán trực tuyến riêng lẻ.
 
 ---
 
-## 🛠️ Công nghệ sử dụng (Tech Stack)
+##  Công nghệ sử dụng (Tech Stack)
 
 *(Đang trong quá trình khảo sát và chưa chốt phương án công nghệ chính thức)*
 
@@ -59,7 +59,7 @@ Dưới đây là một số đề xuất công nghệ dự kiến cân nhắc s
 
 ---
 
-## 📂 Cấu trúc thư mục tài liệu
+##  Cấu trúc thư mục tài liệu
 
 Thông tin phân tích và thiết kế chi tiết dự án có thể tham khảo tại thư mục `Docs/MD_Type/`:
 *   [B3_Persona_UserJourney.md](Docs/MD_Type/B3_Persona_UserJourney.md): Chân dung khách hàng mục tiêu & Hành trình người dùng.
@@ -69,7 +69,7 @@ Thông tin phân tích và thiết kế chi tiết dự án có thể tham khả
 
 ---
 
-## 🤝 Hướng dẫn đóng góp (Contributing Guide)
+##  Hướng dẫn đóng góp (Contributing Guide)
 
 Xem chi tiết quy trình Git Workflow, cách đặt tên nhánh (branch), chuẩn commit message và tạo Pull Request (PR) tại tài liệu hướng dẫn:
 *   [CONTRIBUTING.md](CONTRIBUTING.md)
