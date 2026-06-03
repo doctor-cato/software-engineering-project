@@ -20,4 +20,4 @@ AI được coi là một "Trợ lý lập trình" (Pair Programmer) thay vì ng
 - **Không phá vỡ Kiến trúc & Document:** Không để AI tự ý thay đổi design pattern hiện tại, cũng không được làm thay đổi cấu trúc tài liệu gốc. **Không được đụng vào các file `.docx` trong dự án**.
 
 ## 4. Xử lý lỗi (Debugging Philosophy)
-Khi dùng AI để debug, yêu cầu AI giải thích *tại sao* lỗi xảy ra thay vì chỉ cung cấp đoạn code sửa. Các khu vực thường xuyên ưu tiên kiểm tra: MongoDB URI, CORS, Socket.io connection, và JWT middleware.
+Khi dùng AI để debug, yêu cầu AI giải thích *tại sao* lỗi xảy ra thay vì chỉ cung cấp đoạn code sửa. Các khu vực thường xuyên ưu tiên kiểm tra: Chuỗi kết nối Database (Database Connection URI), CORS, các kết nối Realtime (Socket.io/SSE), và Middleware xác thực (JWT/Session).

@@ -14,8 +14,7 @@
 
 ## 3. Chọn MVP (Minimum Viable Product)
 Để giải quyết các vấn đề trên, phiên bản MVP của 3HD2Kcinema sẽ tập trung vào các tính năng cơ bản và giải quyết pain point chính:
-- **Quản lý tài khoản (US01):** Đăng nhập/Đăng ký cơ bản.
-- **Khám phá phim (US02):** Xem danh sách phim đang chiếu, sắp chiếu và xem review phim.
-- **Đặt vé & Khóa ghế thời gian thực (US03):** Chức năng cốt lõi giúp chọn suất chiếu và khóa ghế ngay lập tức (Realtime seat locking) bằng Socket.io. Đặc biệt là tính năng "Split & Lock" cho nhóm.
-- **Thanh toán & Hóa đơn (US05):** Thanh toán cơ bản và xuất vé QR.
-- **Admin cơ bản (US07):** Quản lý suất chiếu, phim, và rạp.
+- **Khám phá phim (US01):** Xem danh sách phim đang chiếu, sắp chiếu và xem thông tin/lịch chiếu phim.
+- **Đặt vé & Khóa ghế thời gian thực (US02):** Chức năng cốt lõi giúp chọn suất chiếu và khóa ghế ngay lập tức bằng cơ chế Realtime (đề xuất sử dụng Socket.io). Đặc biệt là tính năng "Split & Lock" cho nhóm (US06).
+- **Thanh toán & Hóa đơn (US04):** Thanh toán trực tuyến và xuất vé QR điện tử.
+- **Quản lý tài khoản (US05):** Đăng nhập/Đăng ký thành viên cơ bản.

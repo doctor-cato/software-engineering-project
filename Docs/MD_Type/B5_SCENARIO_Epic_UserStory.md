@@ -36,14 +36,16 @@ Hệ thống 3HD2Kcinema được phân rã thành 4 Epic cốt lõi bao quát t
 
 Dưới đây là danh sách các User Story quan trọng được triển khai từ 4 Epic trên, bám sát nhu cầu và mang lại giá trị cao nhất cho người dùng:
 
+#### **Thuộc Epic 1 (Quản lý Tài khoản & Cá nhân hóa):**
+* **US05:** Là khách vãng lai, tôi muốn đăng ký tài khoản và đăng nhập vào ứng dụng bằng email/mật khẩu, để lưu trữ lịch sử giao dịch và tích lũy điểm thưởng thành viên một cách an toàn.
+
 #### **Thuộc Epic 2 (Tìm kiếm & Chọn ghế):**
-* **US01:** Là một bạn trẻ bận rộn thường đi xem phim cuối tuần, tôi muốn tra cứu và so sánh lịch chiếu, giá vé của tất cả các cụm rạp cùng lúc trên một ứng dụng duy nhất, để tôi nhanh chóng chọn được suất chiếu phù hợp với thời gian và ngân sách của mình mà không cần mở từng app riêng lẻ.  
+* **US01:** Là một bạn trẻ bận rộn thường đi xem phim cuối tuần, tôi muốn tra cứu lịch chiếu, giá vé và thông tin phim trực quan, để tôi nhanh chóng chọn được suất chiếu phù hợp với thời gian và ngân sách của mình.  
 * **US02:** Là một người kỹ tính khi đi xem phim rạp, tôi muốn thấy sơ đồ phòng chiếu trực quan theo thời gian thực và tự chọn vị trí ghế (Ghế thường, VIP hay Sweetbox), để tôi chắc chắn đặt được chỗ ngồi có góc nhìn đẹp nhất mà không lo bị trùng ghế với người khác.  
 
 #### **Thuộc Epic 3 (Thanh toán & Dịch vụ F&B):**
 * **US03:** Là một khách hàng yêu thích sự tiện lợi, tôi muốn chọn mua các gói combo bắp nước ưu đãi trực quan ngay trong quy trình checkout đặt vé, để tôi thanh toán trước và rút ngắn tối đa thời gian xếp hàng chờ đợi nhận đồ ăn tại quầy rạp.  
-* **US04:** Là thành viên thích giao dịch nhanh gọn, tôi muốn thanh toán qua ví điện tử (MoMo/VNPAY) hoặc thẻ ngân hàng an toàn để hoàn tất giao dịch một cách nhanh chóng nhất.
-* **US05:** Là người mua vé, tôi muốn nhận vé điện tử dạng mã QR tổng hợp duy nhất ngay sau khi thanh toán thành công, để tôi soát vé và nhận bắp nước nhanh chóng tại rạp mà không cần xếp hàng in vé giấy (hỗ trợ xem ngoại tuyến khi mất mạng).  
+* **US04:** Là thành viên thích giao dịch nhanh gọn, tôi muốn thanh toán trực tuyến an toàn qua ví điện tử (MoMo/VNPAY) và nhận ngay vé điện tử QR Code tích hợp hiển thị ngoại tuyến, để hoàn tất quy trình giao dịch nhanh chóng và soát vé tiện lợi tại rạp mà không cần in vé giấy.
 
 #### **Thuộc Epic 4 (Tương tác xã hội & Quản trị):**
 * **US06:** Là một sinh viên thường đi xem phim chung với hội bạn thân, tôi muốn sử dụng tính năng "Booking Nhóm" (Split & Lock) để cùng chọn ghế và tự động chia đều hóa đơn khi thanh toán, để chúng tôi ngồi cạnh nhau mà không gặp cảnh ngại ngùng khi phải gom tiền thủ công.  

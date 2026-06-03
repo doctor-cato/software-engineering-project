@@ -33,12 +33,12 @@ Dự án được phân rã thành các Epic và User Story (từ US01 đến US
 *   Chọn mua các gói combo bắp nước ưu đãi trực quan ngay trong quy trình thanh toán vé.
 *   Tiết kiệm thời gian xếp hàng tại quầy F&B.
 
-### 💳 4. Payment Gateway Integration (US04)
-*   Tích hợp thanh toán một chạm qua ví điện tử (MoMo/VNPAY) hoặc thẻ ngân hàng an toàn, tiện lợi.
+### 💳 4. Payment & QR Ticket (US04)
+*   Tích hợp thanh toán trực tuyến an toàn qua ví điện tử (MoMo/VNPAY).
+*   Xuất vé điện tử QR Code tích hợp (vé + bắp nước) hỗ trợ xem ngoại tuyến khi không có kết nối mạng.
 
-### 🎟️ 5. QR Ticket Generator & Offline View (US05)
-*   Xuất mã QR điện tử tích hợp duy nhất cho cả vé và bắp nước.
-*   Hỗ trợ lưu trữ và hiển thị ngoại tuyến khi không có kết nối internet tại sảnh rạp.
+### 🔑 5. Authentication & JWT (US05)
+*   Đăng ký và Đăng nhập thành viên để lưu lịch sử giao dịch và tích điểm.
 
 ### 👥 6. Booking Nhóm & Chia tiền tự động (US06)
 *   Tính năng **Split & Lock** giúp giữ chỗ chung cho cả nhóm bạn và tự động chia đều hóa đơn thanh toán trực tuyến riêng lẻ.

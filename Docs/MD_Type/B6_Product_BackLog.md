@@ -10,11 +10,11 @@
 
 | Tính năng cốt lõi (Feature) | Giải quyết cho User Story nào? |
 | :--- | :--- |
-| **Giao diện rạp phim điện ảnh (Cinematic UI & Movie Browse)** | **US01** (Khách muốn tra cứu, so sánh lịch chiếu và thông tin phim trực quan đa rạp cùng lúc) |
+| **Giao diện rạp phim điện ảnh (Cinematic UI & Movie Browse)** | **US01** (Khách muốn tra cứu lịch chiếu và thông tin phim trực quan) |
 | **Khóa ghế thời gian thực (Real-time Seat Locking via Socket.io)** | **US02** (Khách muốn thấy sơ đồ ghế ngồi trực quan và trạng thái chọn ghế real-time để tránh đặt trùng) |
 | **Đặt trước bắp nước (Snack Booking & Up-sell)** | **US03** (Thành viên muốn chọn combo bắp nước ngay trong quy trình checkout để thanh toán trước) |
-| **Tích hợp cổng thanh toán trực tuyến (Payment Gateway Integration)** | **US04** (Thành viên muốn thanh toán qua ví điện tử MoMo/VNPAY hoặc thẻ ngân hàng an toàn, tiện lợi) |
-| **Vé điện tử mã QR (QR Ticket Generator & Offline View)** | **US05** (Thành viên muốn soát vé và lấy bắp nước qua mã QR tích hợp duy nhất mà không cần in vé giấy) |
+| **Tích hợp thanh toán & Vé điện tử QR (Payment & QR Ticket)** | **US04** (Thành viên muốn thanh toán trực tuyến an toàn và nhận vé điện tử QR Code để soát vé nhanh chóng) |
+| **Đăng ký & Đăng nhập thành viên (Authentication & JWT)** | **US05** (Khách vãng lai muốn đăng ký/đăng nhập tài khoản để lưu lịch sử giao dịch và tích lũy điểm thưởng) |
 | **Booking nhóm & Chia tiền tự động (Split & Lock)** | **US06** (Nhóm bạn muốn giữ ghế chung và tự động chia đều hóa đơn thanh toán riêng lẻ trực tuyến) |
 | **Đánh giá phim & Bảng điều khiển quản trị (Reviews & Admin Dashboard)** | **US07** (Thành viên muốn gửi đánh giá sao/bình luận phim; và Admin muốn quản lý suất chiếu/doanh thu) |
 
