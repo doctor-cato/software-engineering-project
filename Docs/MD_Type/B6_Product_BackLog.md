@@ -28,15 +28,15 @@
 
 | Ưu tiên | Hạng mục (Item) | Vai trò (Persona) | Trạng thái |
 | :--- | :--- | :--- | :--- |
-| **1 (Cao nhất)** | **Trang chủ & Danh sách phim**<br>(Hiển thị banner nổi bật, danh sách phim Đang chiếu / Sắp chiếu) | Khách vãng lai & Thành viên | Đang làm (In Progress) |
-| **2 (Cao)** | **Trang chi tiết phim & Lịch chiếu**<br>(Xem trailer, đạo diễn, diễn viên, thời lượng, lịch chiếu theo rạp) | Khách vãng lai & Thành viên | Đang làm (In Progress) |
+| **1 (Cao nhất)** | **Trang chủ & Danh sách phim**<br>(Hiển thị banner nổi bật, danh sách phim Đang chiếu / Sắp chiếu) | Khách vãng lai & Thành viên | Cần làm (To-do) |
+| **2 (Cao)** | **Trang chi tiết phim & Lịch chiếu**<br>(Xem trailer, đạo diễn, diễn viên, thời lượng, lịch chiếu theo rạp) | Khách vãng lai & Thành viên | Cần làm (To-do) |
 | **3 (Cao)** | **Sơ đồ phòng chiếu & Chọn ghế**<br>(Hiển thị sơ đồ ghế ngồi trực quan phân loại ghế Thường, VIP, Đôi) | Thành viên | Cần làm (To-do) |
 | **4 (Cao)** | **Đồng bộ khóa ghế thời gian thực**<br>(Tích hợp Socket.io hiển thị ghế người khác đang chọn và giữ ghế tạm thời trong 5 phút) | Thành viên | Cần làm (To-do) |
-| **5 (Trung bình)** | **Đăng ký / Đăng nhập (JWT)**<br>(Xác thực tài khoản thành viên để lưu lịch sử giao dịch và tích điểm) | Khách vãng lai | Đang làm (In Progress) |
+| **5 (Trung bình)** | **Đăng ký / Đăng nhập (JWT)**<br>(Xác thực tài khoản thành viên để lưu lịch sử giao dịch và tích điểm) | Khách vãng lai | Cần làm (To-do) |
 | **6 (Trung bình)** | **Đặt bắp nước & Trang Checkout**<br>(Chọn combo bắp nước đi kèm và xác nhận thông tin vé đặt) | Thành viên | Cần làm (To-do) |
-| **7 (Trung bình)** | **Tích hợp cổng thanh toán trực tuyến**<br>(Thanh toán qua cổng ví điện tử MoMo/VNPAY giả lập hoặc tích hợp thật) | Thành viên | Chờ xử lý (Pending) |
-| **8 (Thấp)** | **Booking nhóm & Tự chia tiền (Split bill)**<br>(Tạm khóa ghế cho nhóm và gửi link tự thanh toán trực tuyến riêng lẻ) | Thành viên | Chờ xử lý (Pending) |
-| **9 (Thấp)** | **Xuất vé điện tử QR Code**<br>(Tạo mã QR chứa cả thông tin vé và bắp nước, xem được ngoại tuyến khi không có mạng) | Thành viên | Chờ xử lý (Pending) |
-| **10 (Thấp)** | **Trang Admin Dashboard**<br>(Giao diện quản lý phim, rạp, suất chiếu, combo bắp nước và báo cáo doanh thu) | Admin | Chờ xử lý (Pending) |
+| **7 (Trung bình)** | **Tích hợp cổng thanh toán trực tuyến**<br>(Thanh toán qua cổng ví điện tử MoMo/VNPAY giả lập hoặc tích hợp thật) | Thành viên | Cần làm (To-do) |
+| **8 (Thấp)** | **Booking nhóm & Tự chia tiền (Split bill)**<br>(Tạm khóa ghế cho nhóm và gửi link tự thanh toán trực tuyến riêng lẻ) | Thành viên | Cần làm (To-do) |
+| **9 (Thấp)** | **Xuất vé điện tử QR Code**<br>(Tạo mã QR chứa cả thông tin vé và bắp nước, xem được ngoại tuyến khi không có mạng) | Thành viên | Cần làm (To-do) |
+| **10 (Thấp)** | **Trang Admin Dashboard**<br>(Giao diện quản lý phim, rạp, suất chiếu, combo bắp nước và báo cáo doanh thu) | Admin | Cần làm (To-do) |
 | **11 (Thấp)** | **Đánh giá & Bình luận phim**<br>(Thành viên gửi review phim và chấm điểm sao sau khi xem) | Thành viên | Ý tưởng (Backlog) |
 | **12 (Thấp)** | **Gợi ý phim thông minh bằng AI**<br>(Hệ thống tự động đề xuất phim theo sở thích và lịch sử xem của thành viên) | Thành viên | Ý tưởng (Backlog) |
