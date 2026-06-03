@@ -66,3 +66,10 @@ Thông tin phân tích và thiết kế chi tiết dự án có thể tham khả
 *   [B4_Product_Vision.md](Docs/MD_Type/B4_Product_Vision.md): Định vị tầm nhìn sản phẩm.
 *   [B5_SCENARIO_Epic_UserStory.md](Docs/MD_Type/B5_SCENARIO_Epic_UserStory.md): Kịch bản sử dụng, Epic và chi tiết User Stories.
 *   [B6_Product_BackLog.md](Docs/MD_Type/B6_Product_BackLog.md): Danh sách tính năng và Product Backlog ưu tiên.
+
+---
+
+## 🤝 Hướng dẫn đóng góp (Contributing Guide)
+
+Xem chi tiết quy trình Git Workflow, cách đặt tên nhánh (branch), chuẩn commit message và tạo Pull Request (PR) tại tài liệu hướng dẫn:
+*   [CONTRIBUTING.md](CONTRIBUTING.md)
