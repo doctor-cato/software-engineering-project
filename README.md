@@ -48,13 +48,11 @@ Dự án được phân rã thành các Epic và User Story (từ US01 đến US
 
 ##  Công nghệ sử dụng (Tech Stack)
 
-*(Đang trong quá trình khảo sát và chưa chốt phương án công nghệ chính thức)*
-
-Dưới đây là một số đề xuất công nghệ dự kiến cân nhắc sử dụng:
-*   **Frontend:** HTML, CSS, JavaScript (cân nhắc React / Next.js / Vite)
-*   **Backend:** Node.js, Express
-*   **Real-time Communication:** Socket.io (phục vụ tính năng khóa ghế thời gian thực)
-*   **Database:** MongoDB / Relational Database
+Dự án sử dụng bộ công nghệ (Tech Stack) chính thức như sau:
+*   **Frontend:** ReactJS (TypeScript), Tailwind CSS (khởi tạo với Vite)
+*   **Backend & RESTful API:** ASP.NET Core Web API (C#)
+*   **Real-time Communication:** SignalR / Socket.io (phục vụ tính năng khóa ghế thời gian thực)
+*   **Database:** MongoDB
 *   **Authentication:** JWT (JSON Web Token)
 *   **Payment Gateway:** Giả lập hoặc tích hợp MoMo / VNPAY APIs
 

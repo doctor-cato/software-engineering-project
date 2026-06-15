@@ -1,0 +1,6 @@
+@_3HD2Kcinema.API_HostAddress = http://localhost:5110
+
+GET {{_3HD2Kcinema.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

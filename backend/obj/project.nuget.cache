@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "oqh9+lCaldc=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\CODE_WORKSPACE\\Softeng\\backend\\3HD2Kcinema.API.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.OpenApi. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Users\\Admin\\Documents\\CODE_WORKSPACE\\Softeng\\backend\\3HD2Kcinema.API.csproj",
+      "filePath": "C:\\Users\\Admin\\Documents\\CODE_WORKSPACE\\Softeng\\backend\\3HD2Kcinema.API.csproj",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
