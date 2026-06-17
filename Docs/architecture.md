@@ -4,7 +4,7 @@
 Dự án `3HD2Kcinema` sử dụng mô hình Client-Server hiện đại, chia tách hoàn toàn giữa Frontend và Backend. 
 - **Frontend:** Ứng dụng Single Page Application (SPA) xây dựng bằng ReactJS.
 - **Backend:** Hệ thống RESTful API xây dựng bằng ASP.NET Core.
-- **Database:** NoSQL MongoDB.
+- **Database:** NoSQL MongoDB or SQLserver
 
 ## 2. Sơ đồ Kiến trúc (Mermaid)
 
